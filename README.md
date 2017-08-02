@@ -1,2 +1,2 @@
 # portfolio_filter
-java script filter for portfolio
+javascript filter for portfolio
